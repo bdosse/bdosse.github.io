@@ -7,15 +7,6 @@ titles:
   en-US   : *EN
   en-CA   : *EN
   en-AU   : *EN
-  zh-Hans : &ZH_HANS  关于
-  zh      : *ZH_HANS
-  zh-CN   : *ZH_HANS
-  zh-SG   : *ZH_HANS
-  zh-Hant : &ZH_HANT  關於
-  zh-TW   : *ZH_HANT
-  zh-HK   : *ZH_HANT
-  ko      : &KO       소개
-  ko-KR   : *KO
   fr      : &FR       À propos
   fr-BE   : *FR
   fr-CA   : *FR
@@ -25,6 +16,23 @@ titles:
   # @end locale config
 key: page-about
 ---
+
+Je suis un étudiant qui aime passer un peu (trop) de temps à faire des
+choses plus ou moins (surtout plus que moins) futiles. Un peu touche à
+tout et bon à rien, j'aime apprendre de nouvelles choses au fur et à
+mesure que je les découvre. Sans ordre particulier, tu pourras trouver
+ici du code, des jeux de société, et quelques autres bricoles. Pour
+une liste plus complètes, tu cherches probablement la page
+[Projets](/projets.html) (et je suis sympa, je t'ai mis un lien direct
+vers la page).
+
+En mathématiques, je m'intéresse plus particulièrement aux
+probabilités et aux processus stochastiques (d'où le nom de ce
+blog). L'analyse harmonique, l'analyse fonctionnelle, et la théorie de
+la mesure me plaisent également. Je travaille actuellement sur mon
+[mémoire de fin d'études](/master.html).
+
+
 
 ![TeXt Theme](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/TeXt-home.jpg)
 
