@@ -23,7 +23,7 @@ baseurl : # does not include hostname
 title   : Carnet stochastique
 description: > # this means to ignore newlines until "Language & timezone"
   Notes diverses : mathématiques, développement, jeux, etc.
-collections_dir: collections
+
 collections:
   projects:
     output: true

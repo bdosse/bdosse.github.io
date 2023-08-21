@@ -17,66 +17,63 @@ titles:
 key: page-about
 ---
 
-Je suis un étudiant qui aime passer un peu (trop) de temps à faire des
-choses plus ou moins (surtout plus que moins) futiles. Un peu touche à
-tout et bon à rien, j'aime apprendre de nouvelles choses au fur et à
-mesure que je les découvre. Sans ordre particulier, tu pourras trouver
-ici du code, des jeux de société, et quelques autres bricoles. Pour
-une liste plus complètes, tu cherches probablement la page
-[Projets](/projets.html) (et je suis sympa, je t'ai mis un lien direct
-vers la page).
+## En bref
 
-En mathématiques, je m'intéresse plus particulièrement aux
-probabilités et aux processus stochastiques (d'où le nom de ce
-blog). L'analyse harmonique, l'analyse fonctionnelle, et la théorie de
-la mesure me plaisent également. Je travaille actuellement sur mon
-[mémoire de fin d'études](/master.html).
+Je m'appelle **Benjamin Dosse**, étudiant de mon état, et j'aime
+passer un peu (trop) de temps à faire des choses plus ou moins
+(surtout plus que moins) futiles. Un peu touche à tout, j'aime
+apprendre de nouvelles choses au fur et à mesure que je les
+découvre. Sans ordre particulier, tu pourras trouver ici du code, des
+jeux de société, et quelques autres bricoles. Pour une liste plus
+complètes, tu cherches probablement la page [Projets][] (je suis
+sympa, je t'ai mis un lien direct vers la page).
+
+[Projets]: {% link projects.md %}
 
 
+## Un petit mot ?
 
-![TeXt Theme](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/TeXt-home.jpg)
+Pour les sujets privés ou pour m'envoyer beaucoup d'argent (c'est si
+gentil !) → passe par ma [boîte aux lettres][bàl]. On raconte tout
+bas que je suis aussi trouvable sur [LinkedIn][] 👀.
 
-TeXt is a super customizable Jekyll theme for personal site, team site, blog, project, documentation, etc. Similar to iOS 11 style, it has large and prominent titles, round buttons and cards.
+[bàl]: mailto:bdosse01.social@netc.eu
+[LinkedIn]: https://www.linkedin.com/in/bdosse/
 
-```javascript
-(() => console.log('Hello, World!'))();
-```
+## + de détails
 
-## Features
+Actuellement étudiant en sciences mathématiques à l'Université de
+Liège, mes intérêts sont variés. En mathématiques, j'ai un attrait
+particulier pour les **processus stochastiques** (d'où le nom de ce
+blog), la théorie de la mesure, l'analyse harmonique, et l'analyse
+fonctionnelle. Je m'intéresse également aux méthodes **statistiques**.
 
-- Responsive
-- Semantic HTML
-- Skins
-- Highlight Theme
-- Internationalization
-- Search
-- Table of contents
-- Authors
-- Additional styles (alert, tag, image, icon, button, grid, etc)
-- Extensions (audios, videos, slides, demos)
-- Markdown enhancements ([MathJax](https://www.mathjax.org/), [mermaid](https://mermaidjs.github.io/), [chartjs](http://www.chartjs.org/))
-- Sharing ([AddToAny](https://www.addtoany.com/), [AddThis](https://www.addthis.com/))
-- Comments ([Disqus](https://disqus.com/), [Gitalk](https://gitalk.github.io/), [Valine](https://valine.js.org/en/))
-- Pageview ([LeanCloud](https://leancloud.cn/))
-- Analytics ([Google Analytics](https://analytics.google.com/analytics/web/))
-- RSS ([jekyll-feed](https://github.com/jekyll/jekyll-feed))
+Derrière un écran, il me plaît d'expérimenter un peu en **C/C++**, en
+**Python**, et en Java. Il m'arrive également d'écrire en **R**,
+surtout quand il est question de statistiques. La plupart du temps,
+c'est avec **[emacs][]** que je fais tout ça.
 
-## Skins
+[emacs]: {% post_url 2023-06-25-emacs_tout_faire %}
 
-TeXt has 6 built-in skins, you can also set up your own skin.
+Quand je n'étudie pas ou que je ne suis pas en train de jouer au
+professeur Frankenstein avec mon clavier, j'aime me **promener** (plus
+souvent en petit groupe), piocher dans mon intarissable pile de
+lecture, jouer à des jeux de société, ou **découvrir de nouveaux
+éclats de voix**.
 
-| `default` | `dark` | `forest` |
-| --- |  --- | --- |
-| ![Default](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_default.jpg) | ![Dark](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_dark.jpg) | ![Forest](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_forest.jpg) |
+Depuis **2020**, je suis membre du CSM, le **Cercle des Sciences
+Mathématiques**, une association qui organise des activités pour les
+étudiants du département de mathématiques de l'ULiège. J'en assure la
+présidence pour l'année académique 2023-2024. En parallèle, je suis
+rédacteur et éditeur du journal étudiant *La Dérivée*.
 
-| `ocean` | `chocolate` | `orange` |
-| --- |  --- | --- |
-| ![Ocean](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_ocean.jpg) | ![Chocolate](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_chocolate.jpg) | ![Orange](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_orange.jpg) |
+En **2022**, j'ai débuté mon **Master en Sciences Mathématiques** à
+finalité approfondie à l'Université de Liège. Mon [mémoire][master]
+porte sur des généralisations du mouvement Brownien.
 
-### Highlight Theme
+[master]: {% link _projects/master.md %}
 
-TeXt use [Tomorrow](https://github.com/chriskempson/tomorrow-theme) as the highlight theme.
-
-| `tomorrow` | `tomorrow-night` | `tomorrow-night-eighties` | `tomorrow-night-blue` | `tomorrow-night-bright` |
-| --- |  --- | --- | --- |  --- |
-| ![Tomorrow](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow.png) | ![Tomorrow Night](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night.png) | ![Tomorrow Night Eighties](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-eighties.png) | ![Tomorrow Night Blue](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-blue.png) | ![Tomorrow Night Bright](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-bright.png) |
+Fin juillet 2023, je décide de concrétiser une idée que j'ai eu début
+2020 : **publier un blog**. Le but est double : **partager mes
+intérêts** et constituer une **base de connaissances** personnelle
+rudimentaire.
